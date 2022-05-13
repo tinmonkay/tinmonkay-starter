@@ -1,6 +1,6 @@
 ---
 layout: base.njk
-title: { { meta.siteTitle } }
+title: Site
 ---
 
 # Welcome
